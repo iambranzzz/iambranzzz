@@ -1,5 +1,7 @@
-## Hi there 👋
+Hi there 👋
 
+💻 I'm currently a beginner in this field and am looking forward to studying more
+🫂 If there is a beginner-friendly project or anything else beginner-friendly I am happy to join in
 <!--
 **iambranzzz/iambranzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
