@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on developing an app<br>🌱 I’m currently learning to build machine learning models and SQL <br>⚡ Fun fact I didn't know you could charge a battery until I was 16.
+👯 I’m looking to collaborate on developing an app<br>🌱 I’m currently learning to build machine learning models and SQL <br>⚡ Fun fact: I didn't know you could charge a battery until I was 16.
 
 
 ## 🌐 Socials:
@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iambranzzz&icon=2&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->deas to get you started:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
